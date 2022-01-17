@@ -29,4 +29,4 @@ Current repository consists of multiple branches:
 
 Main :  This repository consists of basic data required for modelling using any technique.
 
-Linear-Model : This repository consists of Linear Regression model based learning.
+Linear-regression-model : This repository consists of Linear Regression model based learning.
